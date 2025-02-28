@@ -1,0 +1,9 @@
+pillow>=9.0.0
+tkinterdnd2>=0.3.0
+moviepy>=1.0.3
+imageio>=2.9.0
+imageio-ffmpeg>=0.4.5
+numpy>=1.19.0
+decorator>=4.4.2
+proglog>=0.1.9
+tqdm>=4.56.0
